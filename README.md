@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/Pratik07007" target="_blank">
+    <a href="https://www.linkedin.com/in/pratik-dhimal-26a54123a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Pratik" />
     </a>
