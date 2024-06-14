@@ -34,7 +34,8 @@
             alt="Pratik" />
     </a>
     <a href="https://www.facebook.com/pratik.dhimal.71" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Pratik"  />
+        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
+            alt="Pratik" />
     </a>
 
 
@@ -47,12 +48,7 @@
 
 
 <p>
-    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
-    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br /><br />
-    ❤️ &emsp; Love to writing code and learning new features<br /><br />
-    📧 &emsp; Reach me anytime: s.dhimal006@gmail.com<br /><br />
-
+    <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif?raw=true" alt="Coding gif" />
 </p>
 
 <br />
