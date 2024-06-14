@@ -91,10 +91,10 @@
 </p>
 
 <a>
-    <a href="https://github.com/Pratik07007"><img alt="Al Siam's Github Stats"
+    <a href="https://github.com/Pratik07007"><img alt=""
             src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Pratik07007&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
-    <a href="https://github.com/Pratik07007"><img alt="Al Siam's Top Languages"
+    <a href="https://github.com/Pratik07007"><img alt=""
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Pratik07007&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
     <br />
@@ -102,4 +102,4 @@
 
 
 ![Pratik's
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik07007&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik07007&custom&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
