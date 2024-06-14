@@ -24,23 +24,27 @@
 </p>
 
 <p align="center">
-
-    <a href="https://linkedin.com/in/al-siam" target="_blank">
-        <img src="https://www.linkedin.com/in/pratik-dhimal-26a54123a/" alt="Pratik" />
+    <a href="https://linkedin.com/in/Pratik07007" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Pratik" />
+    </a>
     </a>
     <a href="https://www.instagram.com/pratikdhimal01/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Pratik07007" />
+            alt="Pratik" />
     </a>
     <a href="https://www.facebook.com/pratik.dhimal.71" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
-            alt="Pratik07007" />
+        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Pratik"  />
     </a>
+
+
+
+
 </p>
 <br />
 
 <!-- About Section -->
-# About me
+
 
 <p>
     <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
