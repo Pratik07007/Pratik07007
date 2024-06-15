@@ -9,7 +9,8 @@
 <p align="center">
     <samp>
         <br>
-        「 I am currently learning full stack developer
+        「 I am currently learning full stack developer 
+        <br/>
         I'm from <b>Nepal</b> 」
         <br>
         <br>
